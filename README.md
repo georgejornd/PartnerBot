@@ -1,1 +1,2 @@
-# PartnerBot
+# PartnerProgramBot
+# PartnerProgramBot
