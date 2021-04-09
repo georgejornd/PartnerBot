@@ -7,7 +7,7 @@ import requests
 import json
 import sqlite3
 
-bot = telebot.TeleBot("1124556761:AAE6sHaMLwNj3_hQqRJ6zXwwNjWpcS2n1Vc")
+bot = telebot.TeleBot("четыре")
 
 dir_file = os.getcwd()
 
